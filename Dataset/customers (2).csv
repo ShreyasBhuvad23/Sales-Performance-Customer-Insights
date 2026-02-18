@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,country,city
+1,Alice,Consumer,USA,New York
+2,Bob,Corporate,USA,Los Angeles
+3,Charlie,Consumer,USA,Chicago
+4,David,Home Office,USA,Houston
+5,Eva,Corporate,USA,Phoenix
+6,Frank,Consumer,USA,Dallas
+7,Grace,Corporate,USA,San Jose
+8,Helen,Home Office,USA,Austin
+9,Ian,Consumer,USA,Seattle
+10,Julia,Corporate,USA,Boston

@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category
+101,Laptop,Technology,Computers
+102,Office Chair,Furniture,Chairs
+103,Printer,Technology,Machines
+104,Desk,Furniture,Tables
+105,Smartphone,Technology,Phones
+106,Tablet,Technology,Tablets
+107,Monitor,Technology,Displays
+108,Keyboard,Office Supplies,Accessories
+109,Mouse,Office Supplies,Accessories
+110,Headphones,Technology,Accessories
