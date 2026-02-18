@@ -12,6 +12,7 @@ This project provides actionable insights through dynamic filtering, KPI trackin
 oTotal Sales
 oTotal Profit
 oTotal Orders
+
 🎛️ Interactive Filters –
 oRegion slicer (Central, East, South, West)
 oCategory slicer
@@ -22,12 +23,14 @@ oOrder date range selector
 Clear seasonal sales patterns across months
 Product-level contribution to overall performance
 Regional sales distribution visualization
+
 🎯 Project Objective
 To transform raw sales data into a structured and interactive dashboard that enables stakeholders to:
 Monitor performance metrics
 Identify high-performing products
 Analyze profitability trends
 Make strategic business decisions
+
 🧾 Conclusion
 This project demonstrates:
 Strong SQL querying skills
